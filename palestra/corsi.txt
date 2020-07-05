@@ -1,0 +1,12 @@
+corso1
+nomeCognomeIstruttore1
+10
+11.2
+corso2
+nomeCognomeIstruttore2
+20
+21.2
+corso3
+nomeCognomeIstruttore3
+30
+31.2

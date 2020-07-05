@@ -1,0 +1,12 @@
+nomeCognomeCliente1
+corso1
+20200512
+nomeCognomeCliente2
+corso3
+20200518
+nomeCognomeCliente3
+corso2
+20200421
+nomeCognomeCliente4
+corso2
+20190712
